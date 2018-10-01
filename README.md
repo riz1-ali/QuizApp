@@ -5,6 +5,7 @@
 About The App
 -------------
 ***This app has all golang related code in go directory and the react related code in react-app directory.***
+
 For a Normal User
 - This app is coded in React and relayed in backend using Golang. 
 - We have an app for which the backend is implemented as a REST API. Frontend is in ReactJS.
