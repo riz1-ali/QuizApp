@@ -4,8 +4,9 @@
 ----------
 About The App
 -------------
+***This app has all golang related code in go directory and the react related code in react-app directory.***
 For a Normal User
-- This app is coded in React and relayed in backend using Go. 
+- This app is coded in React and relayed in backend using Golang. 
 - We have an app for which the backend is implemented as a REST API. Frontend is in ReactJS.
 - In this App, you can play Quiz(in the Quiz option), which have questions that have 10 points for each correct answer. 
 - At the end of each quiz, you get to view your score. 
